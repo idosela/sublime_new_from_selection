@@ -1,0 +1,3 @@
+[
+    { "keys": ["super+alt+n"], "command": "new_from_selection" }
+]
