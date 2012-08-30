@@ -9,4 +9,4 @@ Or you can download the [tarball] and extract it to your `~/Library/Application 
 
 [Sublime Text 2]: http://www.sublimetext.com/
 [PackageControll]: http://wbond.net/sublime_packages/package_control/installation
-[tarball]: https://github.com/vojtajina/sublime-OpenRelated/tarball/master
+[tarball]: https://github.com/idosela/sublime_new_from_selection/tarball/master
