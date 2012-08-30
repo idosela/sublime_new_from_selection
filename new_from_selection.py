@@ -1,7 +1,7 @@
 """A Sublime Text package that creates a new file from the current selection."""
 
 import sublime, sublime_plugin
-from os.path import basename
+import os.path
 
 class NewFromSelection(sublime_plugin.TextCommand):
     def run(self, edit):
