@@ -2,6 +2,7 @@
 
 import sublime, sublime_plugin
 import os.path
+from os.path import basename
 
 class NewFromSelection(sublime_plugin.TextCommand):
     def run(self, edit):
